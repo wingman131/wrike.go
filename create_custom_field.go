@@ -1,9 +1,9 @@
 package wrike
 
 import (
-	"github.com/AkihikoITOH/wrike.go/parameters"
-	"github.com/AkihikoITOH/wrike.go/types"
 	"github.com/google/go-querystring/query"
+	"github.com/wingman131/wrike.go/parameters"
+	"github.com/wingman131/wrike.go/types"
 )
 
 // CreateCustomField creates a new customField with given parameters.

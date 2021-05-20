@@ -1,11 +1,11 @@
-module github.com/AkihikoITOH/wrike.go
+module github.com/wingman131/wrike.go
 
-go 1.14
+go 1.16
 
 require (
 	github.com/PuerkitoBio/httpcmw v0.0.0-20160804162132-14ea05227e16
-	github.com/google/go-querystring v1.0.0
-	github.com/pkg/errors v0.8.1 // indirect
-	github.com/stretchr/testify v1.3.0 // indirect
-	gotest.tools v0.0.0-20181223230014-1083505acf35
+	github.com/google/go-querystring v1.1.0
+	github.com/pkg/errors v0.9.1 // indirect
+	github.com/stretchr/testify v1.7.0 // indirect
+	gotest.tools v2.2.0+incompatible
 )

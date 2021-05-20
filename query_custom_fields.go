@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	types "github.com/AkihikoITOH/wrike.go/types"
+	types "github.com/wingman131/wrike.go/types"
 )
 
 // QueryCustomFields fetches all custom fields in the account.

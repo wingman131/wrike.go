@@ -3,7 +3,7 @@ package wrike
 import (
 	"fmt"
 
-	types "github.com/AkihikoITOH/wrike.go/types"
+	types "github.com/wingman131/wrike.go/types"
 )
 
 // QueryUser fetches a User by id.

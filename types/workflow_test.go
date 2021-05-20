@@ -6,7 +6,7 @@ import (
 
 	"gotest.tools/assert"
 
-	"github.com/AkihikoITOH/wrike.go/types"
+	"github.com/wingman131/wrike.go/types"
 )
 
 var workflowData = []byte(

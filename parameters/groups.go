@@ -1,7 +1,7 @@
 package parameters
 
 import (
-	types "github.com/AkihikoITOH/wrike.go/types"
+	types "github.com/wingman131/wrike.go/types"
 )
 
 // CreateGroup contains parameters that will be passed to CreateGroup API.

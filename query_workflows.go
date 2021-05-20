@@ -1,7 +1,7 @@
 package wrike
 
 import (
-	types "github.com/AkihikoITOH/wrike.go/types"
+	types "github.com/wingman131/wrike.go/types"
 )
 
 // QueryWorkflows fetches a Workflows

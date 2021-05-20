@@ -8,8 +8,8 @@ import (
 
 	"gotest.tools/assert"
 
-	wrike "github.com/AkihikoITOH/wrike.go"
-	"github.com/AkihikoITOH/wrike.go/parameters"
+	wrike "github.com/wingman131/wrike.go"
+	"github.com/wingman131/wrike.go/parameters"
 )
 
 var contactsByIDsData = []byte(

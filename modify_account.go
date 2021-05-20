@@ -1,9 +1,9 @@
 package wrike
 
 import (
-	"github.com/AkihikoITOH/wrike.go/parameters"
-	types "github.com/AkihikoITOH/wrike.go/types"
 	"github.com/google/go-querystring/query"
+	"github.com/wingman131/wrike.go/parameters"
+	types "github.com/wingman131/wrike.go/types"
 )
 
 // ModifyAccount modifies the current account with given parameters.

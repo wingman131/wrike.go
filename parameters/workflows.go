@@ -3,7 +3,7 @@ package parameters
 import (
 	"net/url"
 
-	types "github.com/AkihikoITOH/wrike.go/types"
+	types "github.com/wingman131/wrike.go/types"
 )
 
 // CreateWorkflow contains parameters that will be passed to CreateWorkflow API.

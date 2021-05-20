@@ -3,9 +3,9 @@ package wrike
 import (
 	"fmt"
 
-	"github.com/AkihikoITOH/wrike.go/parameters"
-	types "github.com/AkihikoITOH/wrike.go/types"
 	"github.com/google/go-querystring/query"
+	"github.com/wingman131/wrike.go/parameters"
+	types "github.com/wingman131/wrike.go/types"
 )
 
 // ModifyContact modifies a contact with given parameters.

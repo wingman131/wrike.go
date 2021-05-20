@@ -7,7 +7,7 @@ import (
 
 	"gotest.tools/assert"
 
-	wrike "github.com/AkihikoITOH/wrike.go"
+	wrike "github.com/wingman131/wrike.go"
 )
 
 var userData = []byte(

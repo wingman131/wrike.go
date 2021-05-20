@@ -5,7 +5,7 @@ import (
 
 	"gotest.tools/assert"
 
-	wrike "github.com/AkihikoITOH/wrike.go"
+	wrike "github.com/wingman131/wrike.go"
 )
 
 func TestNewConfig(t *testing.T) {
