@@ -30,6 +30,6 @@ func main() {
 }
 ```
 
-# Acknowledgements
+## Acknowledgements
 
 Forked from github.com/AkihikoITOH/wrike.go in order to add in some introspection for debugging purposes.
