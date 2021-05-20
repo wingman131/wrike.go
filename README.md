@@ -29,3 +29,7 @@ func main() {
     fmt.Println(user.Data[0].Profiles[0].Email) // => "kqri7kgjlb@y21z0uysjx.com"
 }
 ```
+
+# Acknowledgements
+
+Forked from github.com/AkihikoITOH/wrike.go in order to add in some introspection for debugging purposes.
