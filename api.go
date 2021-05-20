@@ -37,6 +37,10 @@ func (api *API) perform(req *http.Request) ([]byte, error) {
 	if err != nil {
 		return nil, err
 	}
+	if res.StatusCode >= 400 {
+		return nil, errors.New(res.Status)
+	}
+
 	return ioutil.ReadAll(res.Body)
 }
 
